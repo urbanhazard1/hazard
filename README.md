@@ -1,1 +1,2 @@
 # hazard
+Ez egy teszt
