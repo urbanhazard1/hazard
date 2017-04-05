@@ -1,2 +1,2 @@
 # hazard
-Ez egy szar program
+Ez egy program
