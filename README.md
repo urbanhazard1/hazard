@@ -1,3 +1,2 @@
 # hazard
-Ez egy teszt
-ez is egy tesztasdasda d
+Ez egy szar program
